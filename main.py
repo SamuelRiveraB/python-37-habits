@@ -4,10 +4,10 @@ import requests
 
 pixela_endpoint = "https://pixe.la/v1/users"
 USERNAME = "samuel2010"
-TOKEN = "asdlkjduofashdioudvs"
+TOKEN = ""
 
 user_params = {
-    "token": "asdlkjduofashdioudvs",
+    "token": "",
     "username": "samuel2010",
     "agreeTermsOfService": "yes",
     "notMinor": "yes",
